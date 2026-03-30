@@ -42,38 +42,6 @@ project/
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 1. Clone Repository
-
-```
-git clone https://github.com/username/repository-name.git
-cd repository-name
-```
-
-### 2. Run Project
-
-* Open `index.html` in browser
-  atau jika menggunakan framework:
-
-```
-npm install
-npm run dev
-```
-
----
-
-## 🚀 Deployment
-
-This project is deployed using **Vercel**.
-You can also deploy it easily by:
-
-1. Connect your GitHub repository to Vercel
-2. Click **Deploy**
-3. Your website will be live instantly
-
----
-
 ## 📚 Learning Objectives
 
 * Implement responsive web design
