@@ -2,20 +2,6 @@
 
 A responsive web-based product catalog designed to display product information in a structured and user-friendly interface. This project was developed as part of an internship (Kerja Praktik) and focuses on clean UI, accessibility, and responsive design.
 
----
-
-## 🌐 Live Demo
-
-🔗 https://your-project-link.vercel.app
-
----
-
-## 📸 Preview
-
-![Homepage Preview](./assets/images/preview.png)
-
----
-
 ## ✨ Features
 
 * 📱 **Responsive Design** (Mobile, Tablet, Desktop)
