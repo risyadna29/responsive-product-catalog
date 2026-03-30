@@ -1,0 +1,1141 @@
+{
+  "products": [
+    {
+      "id": "s-pvc-1",
+      "name": "Pipa Air Minum",
+      "category": "Supralon",
+      "subCategory": "PVC",
+      "image": "images/katalog/supralon/pvc/water-pipe.png",
+      "images": ["images/katalog/supralon/pvc/water-pipe.png"],
+      "desc": "Designed to safely distribute clean drinking water, this pipe is made from high-quality materials that ensure hygiene, durability, and resistance to pressure and corrosion.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Diameter": "20 mm – 400 mm",
+          "Tekanan": "PN 6 - PN 15",
+          "Panjang": "4 m / 6 m",
+          "Material": "PVC-U (uPVC)",
+          "Standar": "ISO 4422"
+        }
+      }
+    },
+    {
+      "id": "s-pvc-2",
+      "name": "Pipa Drainase Air",
+      "category": "Supralon",
+      "subCategory": "PVC",
+      "image": "images/katalog/supralon/pvc/water-pipe.png",
+      "images": ["images/katalog/supralon/pvc/water-pipe.png"],
+      "desc": "Designed for efficient wastewater disposal, this pipe offers strong flow capacity, durability, and resistance to chemicals for long-term drainage performance.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Diameter": "DN 50 mm – 600 mm",
+          "Panjang": "4 m / 6 m",
+          "Material": "PVC-U (uPVC)",
+          "Standar": "ISO 3633"
+        }
+      }
+    },
+    {
+      "id": "s-pe-1",
+      "name": "Pipa Air Minum",
+      "category": "Supralon",
+      "subCategory": "PE",
+      "image": "images/katalog/supralon/pe/drinking-pipe.png",
+      "images": ["images/katalog/supralon/pe/drinking-pipe.png"],
+      "desc": "Pipa PE 80 untuk distribusi air bersih dan irigasi bertekanan menengah.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Diameter": "20 mm – 800 mm",
+          "Tekanan Nominal": "PN 10",
+          "Material": "PE 80",
+          "Standar": "SNI ISO 4422",
+          "Warna": "Hitam / Biru"
+        }
+      }
+    },
+    {
+      "id": "s-pe-2",
+      "name": "Pipa Distribusi Gas",
+      "category": "Supralon",
+      "subCategory": "PE",
+      "image": "images/katalog/supralon/pe/gas-pipe.png",
+      "images": ["images/katalog/supralon/pe/gas-pipe.png"],
+      "desc": "Pipa PE untuk distribusi gas dirancang untuk keamanan dan daya tahan, memberikan ketahanan tekanan yang sangat baik, pencegahan kebocoran, dan kinerja jangka panjang dalam jaringan pasokan gas.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Diameter": "DN 20 – 630 mm",
+          "Tekanan Nominal": "PN 2.5 – PN 16",
+          "Material": "Polyethylene (PE80 / PE100)",
+          "Standar": "SNI ISO 4422",
+          "Warna": "Hitam / Kuning"
+        }
+      }
+    },
+    {
+      "id": "s-hdpe-1",
+      "name": "Pipa Kabel Serat Optik - Biru",
+      "category": "Supralon",
+      "subCategory": "HDPE",
+      "image": "images/katalog/supralon/hdpe/fiber-optic-cable-pipe-1.png",
+      "images": ["images/katalog/supralon/hdpe/fiber-optic-cable-pipe-1.png"],
+      "desc": "Pipa serat optik HDPE dengan 4 garis biru memberikan perlindungan yang tahan lama, fleksibel, dan tahan korosi untuk kabel serat optik, dengan identifikasi yang jelas untuk instalasi jaringan standar.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Diameter": "20 mm – 63 mm",
+          "Panjang": "100 - 500 m",
+          "Tekanan Nominal": "PN 16",
+          "Material": "PE 100",
+          "Standar": "EN 61386 / ASTM F2160",
+          "Sambungan": "Coupling / Fusion",
+          "Warna": "Biru"
+        }
+      }
+    },
+    {
+      "id": "s-hdpe-2",
+      "name": "Pipa Kabel Serat Optik - Kuning",
+      "category": "Supralon",
+      "subCategory": "HDPE",
+      "image": "images/katalog/supralon/hdpe/fiber-optic-cable-pipe-2.png",
+      "images": ["images/katalog/supralon/hdpe/fiber-optic-cable-pipe-2.png"],
+      "desc": "Pipa serat optik HDPE dengan 4 garis kuning menawarkan perlindungan yang kuat, fleksibel, dan tahan korosi untuk kabel serat optik, dengan identifikasi yang jelas untuk jaringan serat optik yang ditentukan.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Diameter": "20 mm – 63 mm",
+          "Panjang": "100 - 500 m",
+          "Tekanan Nominal": "PN 16",
+          "Material": "PE 100",
+          "Standar": "EN 61386 / ASTM F2160",
+          "Sambungan": "Coupling / Fusion",
+          "Warna": "Kuning"
+        }
+      }
+    },
+    {
+      "id": "s-ftsw-1",
+      "name": "Siku - TS",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/siku.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/siku.png"],
+      "desc": "Fitting siku cetakan presisi yang dirancang untuk mengubah arah pipa secara efisien sambil mempertahankan integritas sambungan yang kuat, karakteristik aliran yang lancar, dan keandalan sistem jangka panjang.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "350" },
+          { "Size": "3/4\"", "Meter/Roll": "288" },
+          { "Size": "1\"", "Meter/Roll": "150" },
+          { "Size": "1 1/4\"", "Meter/Roll": "-" },
+          { "Size": "1 1/2\"", "Meter/Roll": "-" },
+          { "Size": "2\"", "Meter/Roll": "-" },
+          { "Size": "2 1/2\"", "Meter/Roll": "-" },
+          { "Size": "3\"", "Meter/Roll": "-" },
+          { "Size": "4\"", "Meter/Roll": "-" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-2",
+      "name": "Kran Siku - TS",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/kran-siku.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/kran-siku.png"],
+      "desc": "Konektor keran bersudut yang dikembangkan untuk instalasi hemat ruang, memungkinkan desain tata letak yang fleksibel sambil mempertahankan aliran yang stabil dan koneksi yang aman.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "450" },
+          { "Size": "3/4\"", "Meter/Roll": "300" },
+          { "Size": "1/2\" x 3/4\"", "Meter/Roll": "200" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-3",
+      "name": "Sambungan Air",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/sambungan-air.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/sambungan-air.png"],
+      "desc": "Fitting fungsional yang memungkinkan pembongkaran dan pemasangan kembali pipa dengan mudah, ideal untuk perawatan, perbaikan, dan modifikasi sistem tanpa memotong pipa.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "160" },
+          { "Size": "3/4\"", "Meter/Roll": "95" },
+          { "Size": "1\"", "Meter/Roll": "110" },
+          { "Size": "1/2\" x 3/4\"", "Meter/Roll": "80" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-4",
+      "name": "Tutup Ujung/Dop",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/tutup-ujung.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/tutup-ujung.png"],
+      "desc": "Fitting penutup ujung yang dirancang untuk menutup ujung pipa dengan aman, mencegah kebocoran, melindungi sistem, dan memastikan pemasangan yang bersih dan aman.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "350" },
+          { "Size": "3/4\"", "Meter/Roll": "288" },
+          { "Size": "1\"", "Meter/Roll": "150" },
+          { "Size": "1 1/4\"", "Meter/Roll": "-" },
+          { "Size": "1 1/2\"", "Meter/Roll": "-" },
+          { "Size": "2\"", "Meter/Roll": "-" },
+          { "Size": "2 1/2\"", "Meter/Roll": "-" },
+          { "Size": "3\"", "Meter/Roll": "-" },
+          { "Size": "4\"", "Meter/Roll": "-" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-5",
+      "name": "Socket",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/socket.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/socket.png"],
+      "desc": "Konektor lurus yang dirancang untuk sambungan pipa ke pipa yang aman, memberikan penyegelan yang rapat, pemasangan yang mudah, dan kinerja yang andal dalam sistem air bertekanan.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "450" },
+          { "Size": "3/4\"", "Meter/Roll": "300" },
+          { "Size": "1/2\" x 3/4\"", "Meter/Roll": "200" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-6",
+      "name": "Socket Pereduksi",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/socket-pereduksi.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/socket-pereduksi.png"],
+      "desc": "Fitting pereduksi berkualitas tinggi yang dirancang untuk menghubungkan pipa dengan diameter berbeda, memastikan transisi aliran yang lancar dan tekanan yang konsisten di seluruh sistem.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "160" },
+          { "Size": "3/4\"", "Meter/Roll": "95" },
+          { "Size": "1\"", "Meter/Roll": "110" },
+          { "Size": "1/2\" x 3/4\"", "Meter/Roll": "80" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-7",
+      "name": "Socket Katup",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/socket-katup.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/socket-katup.png"],
+      "desc": "Konektor yang dirancang khusus untuk pemasangan katup, memberikan pengikatan yang aman, penyelarasan yang tepat, dan kontrol aliran yang andal dalam sistem perpipaan.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "500" },
+          { "Size": "3/4\"", "Meter/Roll": "300" },
+          { "Size": "1\"", "Meter/Roll": "350" },
+          { "Size": "1 1/4\"", "Meter/Roll": "225" },
+          { "Size": "1 1/2\"", "Meter/Roll": "180" },
+          { "Size": "2\"", "Meter/Roll": "100" },
+          { "Size": "1 x 3/4\"", "Meter/Roll": "-" },
+          { "Size": "1 x 1/2\"", "Meter/Roll": "-" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-8",
+      "name": "Socket Keran",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/socket-keran.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/socket-keran.png"],
+      "desc": "Fitting khusus yang dirancang untuk koneksi langsung ke keran, memastikan ulir yang akurat, kinerja bebas kebocoran, dan pengoperasian yang tahan lama untuk penggunaan rumah tangga dan komersial.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "650" },
+          { "Size": "3/4\"", "Meter/Roll": "400" },
+          { "Size": "1\"", "Meter/Roll": "264" },
+          { "Size": "1/2\" x 3/4\"", "Meter/Roll": "264" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-9",
+      "name": "Tee - TS",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/tee.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/tee.png"],
+      "desc": "Fitting percabangan yang tahan lama dirancang untuk mendistribusikan air secara merata dari pipa utama, menawarkan kekuatan yang sangat baik, akurasi dimensi, dan masa pakai yang lama.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "350" },
+          { "Size": "3/4\"", "Meter/Roll": "250" },
+          { "Size": "1\"", "Meter/Roll": "130" },
+          { "Size": "1 1/4\"", "Meter/Roll": "65" },
+          { "Size": "1 1/2\"", "Meter/Roll": "53" },
+          { "Size": "2\"", "Meter/Roll": "24" },
+          { "Size": "2 x 1/2\"", "Meter/Roll": "42" },
+          { "Size": "3\"", "Meter/Roll": "10" },
+          { "Size": "4\"", "Meter/Roll": "5" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-10",
+      "name": "Tee Y - TS",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/tee-y.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/tee-y.png"],
+      "desc": "Fitting percabangan miring yang dirancang untuk mengoptimalkan arah aliran, mengurangi turbulensi, dan meminimalkan kehilangan tekanan dalam sistem distribusi air.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "4\" x 2\"", "Meter/Roll": "15" },
+          { "Size": "4\"", "Meter/Roll": "7" },
+          { "Size": "6\" x 4\"", "Meter/Roll": "5" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-11",
+      "name": "Tee Pereduksi - TS",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/tee-pereduksi.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/tee-pereduksi.png"],
+      "desc": "Fitting serbaguna yang menggabungkan percabangan dan pengurangan diameter, memungkinkan tata letak perpipaan yang fleksibel sambil mempertahankan kinerja aliran yang kuat dan stabil.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "3/4\" x 1/2\"", "Meter/Roll": "240" },
+          { "Size": "1\" x 1/2\"", "Meter/Roll": "126" },
+          { "Size": "1\" x 3/4\"", "Meter/Roll": "126" }
+        ]
+      }
+    },
+    {
+      "id": "s-ftsw-12",
+      "name": "Tee Keran - TS",
+      "category": "Supralon",
+      "subCategory": "Fitting TS-AW",
+      "image": "images/katalog/supralon/fitting-ts-aw/tee-keran.png",
+      "images": ["images/katalog/supralon/fitting-ts-aw/tee-keran.png"],
+      "desc": "Fitting serbaguna yang dirancang untuk mengintegrasikan sambungan keran ke dalam pipa, memastikan distribusi aliran yang seimbang dan pengoperasian yang andal.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "296" },
+          { "Size": "3/4\"", "Meter/Roll": "203" },
+          { "Size": "1\" x 3/4\"", "Meter/Roll": "236" }
+        ]
+      }
+    },
+    {
+      "id": "s-fdvd-1",
+      "name": "Tee Y - DV",
+      "category": "Supralon",
+      "subCategory": "Fitting DV-D",
+      "image": "images/katalog/supralon/fitting-dv-d/tee-y-dv.png",
+      "images": ["images/katalog/supralon/fitting-dv-d/tee-y-dv.png"],
+      "desc": "Fitting berbentuk Y dirancang untuk mengarahkan aliran air limbah dengan lancar, mengurangi turbulensi, dan meningkatkan efisiensi drainase dalam sistem perpipaan.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "2\" x 45°", "Meter/Roll": "80" },
+          { "Size": "3\" x 45°", "Meter/Roll": "25" },
+          { "Size": "4\" x 45°", "Meter/Roll": "12" },
+          { "Size": "2\" x 90°", "Meter/Roll": "95" },
+          { "Size": "3\" x 90°", "Meter/Roll": "28" },
+          { "Size": "4\" x 90°", "Meter/Roll": "15" },
+          { "Size": "4\" x 2\" x 45°", "Meter/Roll": "17" },
+          { "Size": "4\" x 2\" x 90°", "Meter/Roll": "17" },
+          { "Size": "4\" x 3\" x 45°", "Meter/Roll": "14" },
+          { "Size": "4\" x 3\" x 90°", "Meter/Roll": "16" }
+        ]
+      }
+    },
+    {
+      "id": "s-fdvd-2",
+      "name": "Tee - DV",
+      "category": "Supralon",
+      "subCategory": "Fitting DV-D",
+      "image": "images/katalog/supralon/fitting-dv-d/tee-dv.png",
+      "images": ["images/katalog/supralon/fitting-dv-d/tee-dv.png"],
+      "desc": "Fitting percabangan yang tahan lama untuk sistem drainase, memungkinkan distribusi dan penyambungan pipa limbah yang efisien dengan kinerja sambungan yang aman.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1 1/4\"", "Meter/Roll": "316" },
+          { "Size": "1 1/2\"", "Meter/Roll": "240" },
+          { "Size": "2\"", "Meter/Roll": "180" },
+          { "Size": "2 1/2\"", "Meter/Roll": "100" },
+          { "Size": "3\"", "Meter/Roll": "32" },
+          { "Size": "4\"", "Meter/Roll": "-" },
+          { "Size": "6\"", "Meter/Roll": "-" },
+          { "Size": "8\"", "Meter/Roll": "-" }
+        ]
+      }
+    },
+    {
+      "id": "s-fdvd-3",
+      "name": "Siku - DV",
+      "category": "Supralon",
+      "subCategory": "Fitting DV-D",
+      "image": "images/katalog/supralon/fitting-dv-d/siku-dv.png",
+      "images": ["images/katalog/supralon/fitting-dv-d/siku-dv.png"],
+      "desc": "Fitting siku yang dirancang untuk mengubah arah aliran dalam aplikasi drainase sambil mempertahankan kekuatan struktural dan kelancaran aliran air limbah.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1 1/4\"", "Meter/Roll": "750" },
+          { "Size": "1 1/2\"", "Meter/Roll": "500" },
+          { "Size": "2\"", "Meter/Roll": "290" },
+          { "Size": "2 1/2\"", "Meter/Roll": "135" },
+          { "Size": "3\"", "Meter/Roll": "90" },
+          { "Size": "4\"", "Meter/Roll": "44" },
+          { "Size": "5\"", "Meter/Roll": "28" },
+          { "Size": "6\"", "Meter/Roll": "25" },
+          { "Size": "8\"", "Meter/Roll": "15" }
+        ]
+      }
+    },
+    {
+      "id": "s-fdvd-4",
+      "name": "Siku 45° - DV",
+      "category": "Supralon",
+      "subCategory": "Fitting DV-D",
+      "image": "images/katalog/supralon/fitting-dv-d/siku-45-dv.png",
+      "images": ["images/katalog/supralon/fitting-dv-d/siku-45-dv.png"],
+      "desc": "Fitting siku 45 derajat dirancang untuk memberikan perubahan arah aliran secara bertahap, meminimalkan risiko penyumbatan dan memastikan drainase yang efisien..",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "3\" x 45°", "Meter/Roll": "-" },
+          { "Size": "4\" x 45°", "Meter/Roll": "-" }
+        ]
+      }
+    },
+    {
+      "id": "s-fdvd-5",
+      "name": "Tutup Ujung/Dop - DV",
+      "category": "Supralon",
+      "subCategory": "Fitting DV-D",
+      "image": "images/katalog/supralon/fitting-dv-d/tutup-ujung-dv.png",
+      "images": ["images/katalog/supralon/fitting-dv-d/tutup-ujung-dv.png"],
+      "desc": "Fitting penutup ujung yang dirancang untuk menyegel ujung pipa dengan aman, mencegah kebocoran dan melindungi sistem drainase selama pemasangan atau pemeliharaan.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "2\"", "Meter/Roll": "-" },
+          { "Size": "2 1/2\"", "Meter/Roll": "-" },
+          { "Size": "3\"", "Meter/Roll": "-" },
+          { "Size": "4\"", "Meter/Roll": "-" },
+          { "Size": "6\"", "Meter/Roll": "-" },
+          { "Size": "8\"", "Meter/Roll": "-" }
+        ]
+      }
+    },
+    {
+      "id": "s-fdvd-6",
+      "name": "Socket - DV",
+      "category": "Supralon",
+      "subCategory": "Fitting DV-D",
+      "image": "images/katalog/supralon/fitting-dv-d/socket-dv.png",
+      "images": ["images/katalog/supralon/fitting-dv-d/socket-dv.png"],
+      "desc": "Konektor lurus yang dirancang untuk sambungan pipa ke pipa yang aman dalam sistem drainase, memastikan sambungan yang rapat dan kinerja yang tahan lama.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1 1/4\"", "Meter/Roll": "-" },
+          { "Size": "1 1/2\"", "Meter/Roll": "-" },
+          { "Size": "2\"", "Meter/Roll": "606" },
+          { "Size": "2 1/2\"", "Meter/Roll": "312" },
+          { "Size": "3\"", "Meter/Roll": "180" },
+          { "Size": "4\"", "Meter/Roll": "90" },
+          { "Size": "6\"", "Meter/Roll": "22" },
+          { "Size": "8\"", "Meter/Roll": "8" }
+        ]
+      }
+    },
+    {
+      "id": "s-fdvd-7",
+      "name": "Socket Pereduksi - DV",
+      "category": "Supralon",
+      "subCategory": "Fitting DV-D",
+      "image": "images/katalog/supralon/fitting-dv-d/socket-pereduksi-dv.png",
+      "images": [
+        "images/katalog/supralon/fitting-dv-d/socket-pereduksi-dv.png"
+      ],
+      "desc": "Fitting pereduksi yang dirancang untuk menghubungkan diameter pipa yang berbeda, memungkinkan tata letak drainase yang fleksibel sekaligus mempertahankan transisi aliran yang lancar.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "2\" x 45°", "Meter/Roll": "80" },
+          { "Size": "3\" x 45°", "Meter/Roll": "25" },
+          { "Size": "4\" x 45°", "Meter/Roll": "12" },
+          { "Size": "2\" x 90°", "Meter/Roll": "95" },
+          { "Size": "3\" x 90°", "Meter/Roll": "28" },
+          { "Size": "4\" x 90°", "Meter/Roll": "15" },
+          { "Size": "4\" x 2\" x 45°", "Meter/Roll": "17" },
+          { "Size": "4\" x 2\" x 90°", "Meter/Roll": "17" },
+          { "Size": "4\" x 3\" x 45°", "Meter/Roll": "14" },
+          { "Size": "4\" x 3\" x 90°", "Meter/Roll": "16" }
+        ]
+      }
+    },
+    {
+      "id": "s-fdvd-8",
+      "name": "P-Trap - DV",
+      "category": "Supralon",
+      "subCategory": "Fitting DV-D",
+      "image": "images/katalog/supralon/fitting-dv-d/p-trap-dv.png",
+      "images": ["images/katalog/supralon/fitting-dv-d/p-trap-dv.png"],
+      "desc": "Fitting perangkap yang dirancang untuk mencegah gas limbah masuk ke dalam bangunan, memberikan pengendalian bau dan kinerja drainase yang higienis.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1 1/4\"", "Meter/Roll": "316" },
+          { "Size": "1 1/2\"", "Meter/Roll": "240" },
+          { "Size": "2\"", "Meter/Roll": "180" },
+          { "Size": "2 1/2\"", "Meter/Roll": "100" },
+          { "Size": "3\"", "Meter/Roll": "58" },
+          { "Size": "4\"", "Meter/Roll": "32" },
+          { "Size": "6\"", "Meter/Roll": "-" },
+          { "Size": "8\"", "Meter/Roll": "-" }
+        ]
+      }
+    },
+    {
+      "id": "s-bend-1",
+      "name": "Bend 45°",
+      "category": "Supralon",
+      "subCategory": "Bend",
+      "image": "images/katalog/supralon/bend/bend-45.png",
+      "images": ["images/katalog/supralon/bend/bend-45.png"],
+      "desc": "Fitting bengkok 45 derajat dirancang untuk menciptakan perubahan arah aliran yang mulus dalam sistem drainase, membantu mengurangi hambatan aliran dan meminimalkan risiko penyumbatan.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Ukuran": "20 mm – 400 mm",
+          "Material": "HDPE/PE",
+          "Standar": "EN 1401",
+          "Sambungan": "Butt Fusion"
+        }
+      }
+    },
+    {
+      "id": "s-bend-2",
+      "name": "Bend 90°",
+      "category": "Supralon",
+      "subCategory": "Bend",
+      "image": "images/katalog/supralon/bend/bend-90.png",
+      "images": ["images/katalog/supralon/bend/bend-90.png"],
+      "desc": "Fitting belokan 90 derajat yang dirancang untuk perubahan arah yang tajam pada pipa drainase, menawarkan integritas sambungan yang kuat dan kinerja yang andal untuk aliran air limbah yang efisien.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Ukuran": "20 mm – 400 mm",
+          "Material": "HDPE/PE",
+          "Standar": "EN 1401",
+          "Sambungan": "Butt Fusion"
+        }
+      }
+    },
+    {
+      "id": "s-jis-1",
+      "name": "Siku JIS TS-AW",
+      "category": "Supralon",
+      "subCategory": "Fitting JIS TS-AW",
+      "image": "images/katalog/supralon/fitting-jis-ts-aw/siku-jis-ts-aw.png",
+      "images": [
+        "images/katalog/supralon/fitting-jis-ts-aw/siku-jis-ts-aw.png"
+      ],
+      "desc": "Fitting siku yang sesuai dengan standar JIS K 6743, dirancang untuk perubahan arah pipa yang presisi dengan sambungan yang kuat dan kinerja yang andal dalam sistem air bertekanan.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "320" },
+          { "Size": "3/4\"", "Meter/Roll": "224" },
+          { "Size": "1\"", "Meter/Roll": "132" },
+          { "Size": "2\"", "Meter/Roll": "27" }
+        ]
+      }
+    },
+    {
+      "id": "s-jis-2",
+      "name": "Socket JIS TS-AW",
+      "category": "Supralon",
+      "subCategory": "Fitting JIS TS-AW",
+      "image": "images/katalog/supralon/fitting-jis-ts-aw/socket-jis-ts-aw.png",
+      "images": [
+        "images/katalog/supralon/fitting-jis-ts-aw/socket-jis-ts-aw.png"
+      ],
+      "desc": "Konektor lurus yang sesuai dengan standar JIS K 6743, dirancang untuk sambungan pipa yang aman, penyegelan yang rapat, dan kinerja yang tahan lama dalam aplikasi AW.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "540" },
+          { "Size": "3/4\"", "Meter/Roll": "330" },
+          { "Size": "1\"", "Meter/Roll": "207" },
+          { "Size": "2\"", "Meter/Roll": "42" }
+        ]
+      }
+    },
+    {
+      "id": "s-dkn-1",
+      "name": "Keran Tee Drat Kuningan",
+      "category": "Supralon",
+      "subCategory": "Fitting Drat Kuningan",
+      "image": "images/katalog/supralon/fitting-drat-kuningan/keran-tee-kuningan.png",
+      "images": [
+        "images/katalog/supralon/fitting-drat-kuningan/keran-tee-kuningan.png"
+      ],
+      "desc": "Dop penutup ujung pipa dengan insert drat kuningan untuk kerapatan optimal.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2 x 1/2\"", "Meter/Roll": "232" },
+          { "Size": "1/2 x 3/4\"", "Meter/Roll": "154" },
+          { "Size": "3/4 x 3/4\"", "Meter/Roll": "154" }
+        ]
+      }
+    },
+    {
+      "id": "s-dkn-2",
+      "name": "Keran Siku Drat Kuningan",
+      "category": "Supralon",
+      "subCategory": "Fitting Drat Kuningan",
+      "image": "images/katalog/supralon/fitting-drat-kuningan/keran-siku-kuningan.png",
+      "images": [
+        "images/katalog/supralon/fitting-drat-kuningan/keran-siku-kuningan.png"
+      ],
+      "desc": "Dop penutup ujung pipa dengan insert drat kuningan untuk kerapatan optimal.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2 x 1/2\"", "Meter/Roll": "500" },
+          { "Size": "1/2 x 3/4\"", "Meter/Roll": "288" },
+          { "Size": "3/4 x 3/4\"", "Meter/Roll": "288" }
+        ]
+      }
+    },
+    {
+      "id": "s-dkn-3",
+      "name": "Keran Socket Drat Kuningan",
+      "category": "Supralon",
+      "subCategory": "Fitting Drat Kuningan",
+      "image": "images/katalog/supralon/fitting-drat-kuningan/keran-socket-kuningan.png",
+      "images": [
+        "images/katalog/supralon/fitting-drat-kuningan/keran-socket-kuningan.png"
+      ],
+      "desc": "Dop penutup ujung pipa dengan insert drat kuningan untuk kerapatan optimal.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2 x 1/2\"", "Meter/Roll": "360" },
+          { "Size": "1/2 x 3/4\"", "Meter/Roll": "252" },
+          { "Size": "3/4 x 3/4\"", "Meter/Roll": "252" }
+        ]
+      }
+    },
+    {
+      "id": "s-tak-1",
+      "name": "Profile - Talang",
+      "category": "Supralon",
+      "subCategory": "Talang Air Kotak",
+      "image": "images/katalog/supralon/talang-air-kotak/profile-talang-kotak.png",
+      "images": [
+        "images/katalog/supralon/talang-air-kotak/profile-talang-kotak.png"
+      ],
+      "desc": "Dirancang untuk menyalurkan air hujan secara efisien dari atap ke sistem drainase. Profil persegi memberikan kapasitas air yang optimal sekaligus mempertahankan tampilan yang bersih dan modern.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "140": "4"
+        }
+      }
+    },
+    {
+      "id": "s-tak-2",
+      "name": "Caps - Tutup",
+      "category": "Supralon",
+      "subCategory": "Talang Air Kotak",
+      "image": "images/katalog/supralon/talang-air-kotak/caps-tutup-kotak.png",
+      "images": [
+        "images/katalog/supralon/talang-air-kotak/caps-tutup-kotak.png"
+      ],
+      "desc": "Digunakan untuk menutup ujung talang yang terbuka guna mencegah kebocoran air. Membantu menjaga tampilan yang rapi dan memastikan penampungan air yang tepat di dalam sistem.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "140": "200"
+        }
+      }
+    },
+    {
+      "id": "s-tak-3",
+      "name": "Union - Sambungan",
+      "category": "Supralon",
+      "subCategory": "Talang Air Kotak",
+      "image": "images/katalog/supralon/talang-air-kotak/union-sambungan-kotak.png",
+      "images": [
+        "images/katalog/supralon/talang-air-kotak/union-sambungan-kotak.png"
+      ],
+      "desc": "Berfungsi sebagai sambungan untuk menghubungkan dua bagian talang dengan aman. Memastikan sambungan yang rapat dan stabil untuk mencegah kebocoran dan menjaga aliran air tetap lancar.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "140": "175"
+        }
+      }
+    },
+    {
+      "id": "s-tak-4",
+      "name": "Bracket - Kaitan",
+      "category": "Supralon",
+      "subCategory": "Talang Air Kotak",
+      "image": "images/katalog/supralon/talang-air-kotak/bracket-kaitan-kotak.png",
+      "images": [
+        "images/katalog/supralon/talang-air-kotak/bracket-kaitan-kotak.png"
+      ],
+      "desc": "Berfungsi sebagai penyangga untuk menahan talang agar tetap berada di tempatnya pada struktur bangunan. Memberikan stabilitas dan daya tahan terhadap beban air dan kondisi cuaca.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "140": "250"
+        }
+      }
+    },
+    {
+      "id": "s-tak-5",
+      "name": "Outlet - Corong",
+      "category": "Supralon",
+      "subCategory": "Talang Air Kotak",
+      "image": "images/katalog/supralon/talang-air-kotak/outlet-corong-kotak.png",
+      "images": [
+        "images/katalog/supralon/talang-air-kotak/outlet-corong-kotak.png"
+      ],
+      "desc": "Mengarahkan air hujan dari talang ke sistem pipa pembuangan. Memastikan drainase air yang terkontrol dan efisien tanpa meluap.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "140": "26"
+        }
+      }
+    },
+    {
+      "id": "s-tak-6",
+      "name": "Angle - Siku",
+      "category": "Supralon",
+      "subCategory": "Talang Air Kotak",
+      "image": "images/katalog/supralon/talang-air-kotak/angle-siku-kotak.png",
+      "images": [
+        "images/katalog/supralon/talang-air-kotak/angle-siku-kotak.png"
+      ],
+      "desc": "Digunakan untuk menghubungkan bagian-bagian talang di sekitar sudut bangunan. Memungkinkan aliran air yang terus menerus dan lancar sambil mengikuti bentuk atap dengan tepat.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "140": "42"
+        }
+      }
+    },
+    {
+      "id": "s-thl-1",
+      "name": "Profile - Talang",
+      "category": "Supralon",
+      "subCategory": "Talang Air 1/2 Lingkaran",
+      "image": "images/katalog/supralon/talang-air-set-crc/profile-talang-crc.png",
+      "images": [
+        "images/katalog/supralon/talang-air-set-crc/profile-talang-crc.png"
+      ],
+      "desc": "Dirancang dengan bentuk setengah lingkaran untuk menyalurkan air hujan dari atap ke sistem drainase secara efisien. Lengkungan halusnya memungkinkan aliran air yang stabil sekaligus memberikan tampilan klasik dan bersih.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "6": "4",
+          "8": "4"
+        }
+      }
+    },
+    {
+      "id": "s-thl-2",
+      "name": "Caps - Tutup",
+      "category": "Supralon",
+      "subCategory": "Talang Air 1/2 Lingkaran",
+      "image": "images/katalog/supralon/talang-air-set-crc/caps-tutup-crc.png",
+      "images": [
+        "images/katalog/supralon/talang-air-set-crc/caps-tutup-crc.png"
+      ],
+      "desc": "Used to seal the open ends of the half round gutter to prevent water leakage. Ensures proper water containment and a neat finishing touch.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "6": "400",
+          "8": "200"
+        }
+      }
+    },
+    {
+      "id": "s-thl-3",
+      "name": "Union - Sambungan",
+      "category": "Supralon",
+      "subCategory": "Talang Air 1/2 Lingkaran",
+      "image": "images/katalog/supralon/talang-air-set-crc/union-sambungan-crc.png",
+      "images": [
+        "images/katalog/supralon/talang-air-set-crc/union-sambungan-crc.png"
+      ],
+      "desc": "Menghubungkan dua bagian talang setengah lingkaran dengan aman. Memberikan sambungan yang rapat untuk menjaga aliran air tetap lancar dan bebas kebocoran.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "6": "400",
+          "8": "200"
+        }
+      }
+    },
+    {
+      "id": "s-thl-4",
+      "name": "Outlet - Corong",
+      "category": "Supralon",
+      "subCategory": "Talang Air 1/2 Lingkaran",
+      "image": "images/katalog/supralon/talang-air-set-crc/outlet-corong-crc.png",
+      "images": [
+        "images/katalog/supralon/talang-air-set-crc/outlet-corong-crc.png"
+      ],
+      "desc": "Mengalirkan air hujan dari talang ke sistem pipa pembuangan. Membantu memastikan drainase terkontrol dan mencegah luapan air.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "6": "36",
+          "8": "16"
+        }
+      }
+    },
+    {
+      "id": "s-thl-5",
+      "name": "Angle - Siku",
+      "category": "Supralon",
+      "subCategory": "Talang Air 1/2 Lingkaran",
+      "image": "images/katalog/supralon/talang-air-set-crc/angle-siku-crc.png",
+      "images": [
+        "images/katalog/supralon/talang-air-set-crc/angle-siku-crc.png"
+      ],
+      "desc": "Memungkinkan bagian-bagian talang terhubung di sekitar sudut bangunan. Mempertahankan aliran air yang berkelanjutan sambil beradaptasi dengan tata letak atap.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Type", "Isi"],
+        "data": {
+          "6": "90",
+          "8": "33"
+        }
+      }
+    },
+    {
+      "id": "sm-1",
+      "name": "Supramas - Putih",
+      "category": "Supramas",
+      "subCategory": null,
+      "image": "images/katalog/supramas/supramas-putih.png",
+      "images": ["images/katalog/supramas/supramas-putih.png"],
+      "desc": "Pipa Supramas putih merupakan pipa PVC berkualitas tinggi yang dirancang untuk distribusi air bersih. Memiliki daya tahan terhadap tekanan, tidak mudah korosi, dan aman digunakan untuk instalasi air rumah tangga maupun bangunan.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/16\"", "Meter/Roll": "100" },
+          { "Size": "3/32\"", "Meter/Roll": "100²" },
+          { "Size": "1/8\"", "Meter/Roll": "100" },
+          { "Size": "3/16\"", "Meter/Roll": "100" },
+          { "Size": "1/4\"", "Meter/Roll": "100" },
+          { "Size": "5/16\"", "Meter/Roll": "100" },
+          { "Size": "3/8\"", "Meter/Roll": "100" }
+        ]
+      }
+    },
+    {
+      "id": "sm-2",
+      "name": "Supramas - Abu",
+      "category": "Supramas",
+      "subCategory": null,
+      "image": "images/katalog/supramas/supramas-abu.png",
+      "images": ["images/katalog/supramas/supramas-abu.png"],
+      "desc": "Pipa Supramas abu adalah pipa PVC yang digunakan sebagai conduit atau pelindung kabel listrik. Bersifat non-konduktif, tahan terhadap kelembapan, serta membantu menjaga keamanan dan kerapihan instalasi listrik.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "5/8\"", "Meter/Roll": "16" },
+          { "Size": "3/4\"", "Meter/Roll": "20" },
+          { "Size": "1\"", "Meter/Roll": "25" },
+          { "Size": "1 1/4\"", "Meter/Roll": "32" },
+          { "Size": "1 1/2\"", "Meter/Roll": "40" },
+          { "Size": "2", "Meter/Roll": "50" }
+        ]
+      }
+    },
+    {
+      "id": "ex-1",
+      "name": "Pipa Putih - Excellon",
+      "category": "Excellon",
+      "subCategory": null,
+      "image": "images/katalog/excellon/pipa-putih-excellon.png",
+      "images": ["images/katalog/excellon/pipa-putih-excellon.png"],
+      "desc": "dirancang untuk distribusi air bersih bertekanan tinggi. Memiliki dinding tebal, tahan tekanan, serta cocok untuk instalasi rumah tangga maupun sistem pompa air.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Diameter": "1/2” – 10” (± 22 mm – 267 mm)",
+          "Tekanan": "10 kg/cm²",
+          "Panjang": "4 m / 6 m",
+          "Material": "uPVC",
+          "Standar": "SNI / JIS"
+        }
+      }
+    },
+    {
+      "id": "ex-2",
+      "name": "Pipa Abu - Excellon",
+      "category": "Excellon",
+      "subCategory": null,
+      "image": "images/katalog/excellon/pipa-abu-excellon.png",
+      "images": ["images/katalog/excellon/pipa-abu-excellon.png"],
+      "desc": "Dirancang untuk aliran tanpa tekanan, pipa ini lebih ringan dan ideal untuk limbah rumah tangga serta air hujan.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "Diameter": "± 1 1/4” – 10” (drainase",
+          "Material": "PVC",
+          "Standar": "SNI / JIS",
+          "Sambungan": "Socket"
+        }
+      }
+    },
+    {
+      "id": "hose-1",
+      "name": "Supra",
+      "category": "PVC Hose",
+      "subCategory": null,
+      "image": "images/katalog/pvc-hose/supra-hose.png",
+      "images": ["images/katalog/pvc-hose/supra-hose.png"],
+      "desc": "Supra Hose adalah selang yang tahan lama dan fleksibel untuk penggunaan industri dan komersial, dirancang untuk menangani tekanan tinggi dan memastikan transfer cairan yang aman dan efisien.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/2\"", "Meter/Roll": "50" },
+          { "Size": "5/8\"", "Meter/Roll": "50" },
+          { "Size": "3/4\"", "Meter/Roll": "50" },
+          { "Size": "1\"", "Meter/Roll": "50" }
+        ]
+      }
+    },
+    {
+      "id": "hose-2",
+      "name": "Supra DOF",
+      "category": "PVC Hose",
+      "subCategory": null,
+      "image": "images/katalog/pvc-hose/supra-dof-hose.png",
+      "images": ["images/katalog/pvc-hose/supra-dof-hose.png"],
+      "desc": "Supra DOF dirancang untuk aplikasi tugas berat, menawarkan ketahanan tekanan yang kuat dan kinerja yang andal di lingkungan industri yang menuntut.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "1/2\"": "50",
+          "5/8\"": "50",
+          "3/4\"": "50",
+          "1\"": "50"
+        }
+      }
+    },
+    {
+      "id": "hose-3",
+      "name": "Supra Super Flex",
+      "category": "PVC Hose",
+      "subCategory": null,
+      "image": "images/katalog/pvc-hose/supra-super-flex-hose.png",
+      "images": ["images/katalog/pvc-hose/supra-super-flex-hose.png"],
+      "desc": "Supra Super Flex memberikan fleksibilitas luar biasa, sehingga mudah ditangani dan ideal untuk aplikasi yang membutuhkan gerakan dan pembengkokan yang sering.",
+      "specs": {
+        "type": "dynamic",
+        "columns": ["Spesifikasi", "Nilai"],
+        "data": {
+          "1/2\"": "50",
+          "5/8\"": "50",
+          "3/4\"": "50",
+          "1\"": "50"
+        }
+      }
+    },
+    {
+      "id": "hose-4",
+      "name": "Supra Transparan",
+      "category": "PVC Hose",
+      "subCategory": null,
+      "image": "images/katalog/pvc-hose/supra-trans-hose.png",
+      "images": ["images/katalog/pvc-hose/supra-trans-hose.png"],
+      "desc": "Supra Transparan memiliki desain yang jernih sehingga memudahkan pemantauan visual aliran cairan sekaligus menjaga daya tahan dan kinerja yang aman.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/16\"", "Meter/Roll": "100" },
+          { "Size": "3/32\"", "Meter/Roll": "100²" },
+          { "Size": "1/8\"", "Meter/Roll": "100" },
+          { "Size": "3/16\"", "Meter/Roll": "100" },
+          { "Size": "1/4\"", "Meter/Roll": "100" },
+          { "Size": "5/16\"", "Meter/Roll": "100" },
+          { "Size": "3/8\"", "Meter/Roll": "100" }
+        ]
+      }
+    },
+    {
+      "id": "hose-5",
+      "name": "Supra Hiprex",
+      "category": "PVC Hose",
+      "subCategory": null,
+      "image": "images/katalog/pvc-hose/supra-hiprex-hose.png",
+      "images": ["images/katalog/pvc-hose/supra-hiprex-hose.png"],
+      "desc": "Supra Hiprex dirancang untuk operasi bertekanan tinggi, memberikan kekuatan dan stabilitas yang lebih baik untuk kebutuhan transfer fluida yang kritis.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1/4\"", "Meter/Roll": "100" },
+          { "Size": "5/16\"", "Meter/Roll": "100²" },
+          { "Size": "3/8\"", "Meter/Roll": "100" },
+          { "Size": "1/2\"", "Meter/Roll": "100" },
+          { "Size": "5/8\"", "Meter/Roll": "100" },
+          { "Size": "3/4\"", "Meter/Roll": "50" },
+          { "Size": "1\"", "Meter/Roll": "50" },
+          { "Size": "1-1/4\"", "Meter/Roll": "50" },
+          { "Size": "1-1/2\"", "Meter/Roll": "50" },
+          { "Size": "2\"", "Meter/Roll": "50" }
+        ]
+      }
+    },
+    {
+      "id": "hose-6",
+      "name": "Supra Spiral",
+      "category": "PVC Hose",
+      "subCategory": null,
+      "image": "images/katalog/pvc-hose/supra-spiral-hose.png",
+      "images": ["images/katalog/pvc-hose/supra-spiral-hose.png"],
+      "desc": "Supra Spiral adalah selang PVC yang direinforced untuk penghisap dan pengeluaran fluida.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1\"", "Meter/Roll": "50" },
+          { "Size": "1 1/4\"", "Meter/Roll": "50" },
+          { "Size": "1 1/2\"", "Meter/Roll": "50" },
+          { "Size": "1 3/4\"", "Meter/Roll": "50" },
+          { "Size": "2\"", "Meter/Roll": "50" },
+          { "Size": "2 1/4\"", "Meter/Roll": "50" },
+          { "Size": "2 1/2\"", "Meter/Roll": "50" },
+          { "Size": "3\"", "Meter/Roll": "50" },
+          { "Size": "3 1/2\"", "Meter/Roll": "25" },
+          { "Size": "4\"", "Meter/Roll": "25" },
+          { "Size": "4 1/2\"", "Meter/Roll": "25" },
+          { "Size": "5\"", "Meter/Roll": "20" },
+          { "Size": "6\"", "Meter/Roll": "20" },
+          { "Size": "8\"", "Meter/Roll": "6" }
+        ]
+      }
+    },
+    {
+      "id": "sg-1",
+      "name": "uPVC Supra Glue",
+      "category": "Supraglue",
+      "subCategory": null,
+      "image": "images/katalog/supra-glue/upvc-supra-glue.png",
+      "images": [
+        "images/katalog/supra-glue/upvc-supra-glue.png"
+      ],
+      "desc": "Lem PVC Supraglue untuk penyambungan pipa PVC dengan sistem solvent cement.",
+      "specs": {
+        "type": "table",
+        "columns": ["Size", "Meter/Roll"],
+        "rows": [
+          { "Size": "1\"", "Meter/Roll": "50" },
+          { "Size": "1 1/4\"", "Meter/Roll": "50" },
+          { "Size": "1 1/2\"", "Meter/Roll": "50" },
+          { "Size": "1 3/4\"", "Meter/Roll": "50" },
+          { "Size": "2\"", "Meter/Roll": "50" },
+          { "Size": "2 1/4\"", "Meter/Roll": "50" },
+          { "Size": "2 1/2\"", "Meter/Roll": "50" },
+          { "Size": "3\"", "Meter/Roll": "50" },
+          { "Size": "3 1/2\"", "Meter/Roll": "25" },
+          { "Size": "4\"", "Meter/Roll": "25" },
+          { "Size": "4 1/2\"", "Meter/Roll": "25" },
+          { "Size": "5\"", "Meter/Roll": "20" },
+          { "Size": "6\"", "Meter/Roll": "20" },
+          { "Size": "8\"", "Meter/Roll": "6" }
+        ]
+      }
+    }
+  ]
+}

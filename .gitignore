@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+.parcel-cache/
+.next/
+out/
+
+# Tailwind (optional cache)
+.tailwind/
+
+# Misc
+*.log
